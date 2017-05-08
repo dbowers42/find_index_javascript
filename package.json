@@ -1,0 +1,16 @@
+{
+  "name": "js_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha find_index_test.js",
+    "start": "node-es6 program"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
